@@ -1,0 +1,8 @@
+name:
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+  - scipy
